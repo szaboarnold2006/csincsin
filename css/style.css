@@ -2,18 +2,30 @@ header{background-image: url(../img/GitHub.png);
        background-size: cover;
        height: 400px;}
 
+#tnav{display: none;}
+
 #teams img{width: 500px;
            height: 500px;}
            
 .cs{margin-top: 40px;
-    width: 60%;}    
-
+    width: 60%;}
+    
 #team h3{text-align: center;
-          margin-bottom: 10px;
-          text-transform: uppercase;} 
+         margin-bottom: 10px;
+         text-transform: uppercase;} 
+         
+#team ul{list-style-type: none;
+         font-size: 1.5rem;}
+#team li{margin-bottom: 5px;}      
 
-#team  ul{list-style-type: none;
-          font-size: 1.5rem;}
-#team li{margin-bottom: 5px;} 
+article{margin-top: 50px;
+        padding: 10px;}
 
+#two{box-shadow: 10px 10px 100px red;
+     border-radius: 20px 20px 20px 20px;}
+     
+#two h2{font-size: 1.5rem;}
+
+
+          
 
